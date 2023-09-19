@@ -10,7 +10,6 @@ A clone of the Netflix login page with HTML and CSS.
   - [Technologies Used](#technologies-used)
   - [Usage](#usage)
   - [Getting Started](#getting-started)
-  - [License](#license)
 
 ## Description
 
@@ -20,7 +19,6 @@ This project is a clone of the Netflix login page, created using HTML and CSS. I
 
 ![Netflix Login Page Clone](Images/screenshot.png)
 
-*Add a screenshot of your Netflix login page clone here.*
 
 ## Technologies Used
 
